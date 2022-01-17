@@ -1,4 +1,4 @@
-package toe.tic.tac.model;
+package toe.tac.tic.model;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;

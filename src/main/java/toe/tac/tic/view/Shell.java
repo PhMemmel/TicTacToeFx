@@ -1,4 +1,4 @@
-package toe.tic.tac.view;
+package toe.tac.tic.view;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
@@ -6,9 +6,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.regex.Pattern;
-import toe.tic.tac.model.Board;
-import toe.tic.tac.model.Game;
-import toe.tic.tac.model.GameState;
+import toe.tac.tic.model.Board;
+import toe.tac.tic.model.GameState;
+import toe.tac.tic.model.Game;
 
 public class Shell implements PropertyChangeListener {
 

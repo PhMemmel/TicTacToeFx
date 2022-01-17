@@ -1,7 +1,6 @@
-package toe.tic.tac;
+package toe.tac.tic;
 
-import toe.tic.tac.view.ExampleJavaFxGuiStarter;
-import toe.tic.tac.view.Shell;
+import toe.tac.tic.view.ExampleJavaFxGuiStarter;
 
 /**
  * Main starter class. Needed for properly building fat jar with JavaFX libraries included.
